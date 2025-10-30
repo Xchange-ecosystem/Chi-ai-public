@@ -100,7 +100,7 @@ We seek developers who want both **meaning and momentum** — visionary builders
 
 ### How to Join
 1. Visit [xchange.eco/technology](https://xchange.eco/technology)  
-2. Sign the Contributor Pledge and choose a subsystem (Belief Ledger, EIS, Ontogenesis, Ethics, Infra).  
+2. Sign the [Contributor Pledge](./pledge.md). and choose a expertise subsystems (in Belief Ledger, EIS, Ontogenesis, Ethics, Infra).  
 3. Read the *Chi-AI v2025 Whitepaper* and attend the first coordination call.  
 4. Join the private **Chi-AI Task Force workspace** and the **Xcamp** ecosystem to begin earning credits.
 
