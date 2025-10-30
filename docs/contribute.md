@@ -9,7 +9,7 @@ We believe contribution should be **traceable, meaningful, and rewarded**.
 ## 🧭 How to Get Started
 
 1. **Read the [Chi-AI v2025 RFC](https://github.com/xchange-ecos/chi-ai/blob/main/readme.md).**  
-2. [**Sign the Contributor Pledge**](https://forms.fillout.com/t/tJ4jz89vWLus)  
+2. [**Sign the Contributor Pledge**](./pledge.md).  
 3. **Choose a subsystem** you want to help build:  
    - Belief Ledger  
    - Epistemic Immune System  
