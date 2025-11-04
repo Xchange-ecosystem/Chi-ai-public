@@ -70,7 +70,8 @@ All rewards are logged automatically through the **Usage Oracle**.
 
 The development is **semi-open**:
 
-- Code and standards are Open Source under the *Chi-AI Commons License* (Apache 2.0 + attribution).  
+- The architecture is designed with deep roots in systemic models. natural science and economic studies. Calls for modules and services inside this design will be put out to the community.
+- Code and standards are open inside the Chi community under the *Chi-AI Commons License* (adapted from Apache 2.0).  
 - Promotions and merges follow **Governance Layer** policies (auto-promote low-risk, DAO review high-risk).  
 - Contributors stake credits for visibility — low-quality or malicious commits can be slashed.
 
