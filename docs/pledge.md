@@ -14,7 +14,7 @@ not for speculation, not for control, but for collective progress and the benefi
 
 ### 2. Open and accountable collaboration
 I agree that my contributions will be openly visible, traceable through the Usage Oracle,  
-and credited under the Chi-AI Commons License or equivalent open license.
+and credited under the [Chi-AI Commons License]([./docs/license.md](https://github.com/Xchange-ecosystem/Chi-ai-public/blob/1022c93fef904fed89da6633d50fe67cc19b2183/docs/license.md)) or equivalent open license.
 
 ---
 
